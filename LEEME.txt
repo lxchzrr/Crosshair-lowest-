@@ -1,0 +1,12 @@
+MinimalCrosshair - Overlay Nativo C++17 / Direct2D
+==================================================
+
+1. Extrae esta carpeta en cualquier ubicacion.
+2. Haz doble clic en "COMPILAR.bat".
+   - El script detecta automaticamente Zig en tu PC y genera "MinimalCrosshair.exe" en 3 segundos.
+   - Al terminar, abre la aplicacion automaticamente.
+
+Atajos y funciones:
+- Tecla INSERT: Mostrar / Ocultar la mira en cualquier juego (Windowed / Borderless).
+- Cerrar ventana (X): Minimiza a la bandeja del sistema (System Tray) manteniendo la mira activa.
+- Configuracion: Se guarda automaticamente en "crosshair.ini" junto al .exe.

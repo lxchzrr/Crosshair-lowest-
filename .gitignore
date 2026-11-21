@@ -1,0 +1,17 @@
+# Compiled binaries & build artifacts
+*.exe
+*.obj
+*.o
+*.res
+*.pdb
+*.ilk
+build/
+out/
+
+# User runtime configuration
+crosshair.ini
+
+# IDE / Editor folders
+.vs/
+.vscode/
+.idea/
